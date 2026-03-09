@@ -16,9 +16,8 @@ The model runs on the computer, detects finger states, then sends commands to th
 4. **Arduino**: reads the message and updates LEDs
 
 ## Demo
-> Add your demo images/video after you upload them to `images/`
 
-![Demo](images/DEMO.jpg)
+![Demo](images/hand_gesture_led_control_demo.jpg)
 
 ## Documentation
 - 📄 [Getting Started (install + wiring + run steps)](docs/GETTING_STARTED.md)
