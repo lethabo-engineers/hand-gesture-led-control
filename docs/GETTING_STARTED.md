@@ -3,13 +3,10 @@
 ## Build
 
 ### Final build
-![Final build](../images/FINAL_BUILD_V2.jpg)
+![Final build](../images/hand_gesture_led_control_demo.jpg)
 
 ### Wiring / breadboard overview
-![Wiring overview](../images/WIRING_OVERVIEW_V2.jpg)
-
-### LCD close-up (optional)
-![LCD close-up](../images/LCD_CLOSEUP_V2.jpg)
+![Wiring overview](../images/hand_gesture_led_control_demo.jpg)
 
 ---
 
