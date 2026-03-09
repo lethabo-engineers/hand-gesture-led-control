@@ -36,6 +36,14 @@ The model runs on the computer, detects finger states, then sends commands to th
 - PySerial
 - Arduino IDE
 
+## Requirements
+- Python
+- OpenCV
+- MediaPipe
+- PySerial
+- Arduino IDE
+- USB connection between laptop and Arduino
+
 ## Notes
 - The **AI model runs on the laptop**, not on the Arduino.
 - The Arduino is used for **real-world output** (LEDs/LCD/motors).
