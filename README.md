@@ -18,6 +18,7 @@ The model runs on the computer, detects finger states, then sends commands to th
 ## Demo
 
 ![Demo](images/hand_gesture_led_control_demo.jpg)
+[Go here to watch the demo on TikTok](https://www.tiktok.com/@l3thabo_o)
 
 ## Documentation
 - 📄 [Getting Started (install + wiring + run steps)](docs/GETTING_STARTED.md)
